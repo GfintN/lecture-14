@@ -2,7 +2,6 @@ package by.it.academy.example.dao;
 
 import by.it.academy.example.entity.CommandsSQL;
 import by.it.academy.example.entity.UserInformationJDBC;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
